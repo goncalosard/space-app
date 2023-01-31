@@ -1,0 +1,12 @@
+.moon {
+    filter: drop-shadow(5px 5px 5px #666666);
+}
+
+.home {
+    height: 100%;
+}
+
+.name {
+    color: white;
+    margin-top: 20px;
+}
